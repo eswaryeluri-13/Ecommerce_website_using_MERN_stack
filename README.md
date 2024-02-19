@@ -75,7 +75,7 @@ This project is an end-to-end E-commerce website built with a modern and scalabl
 
 ## Contributing
 
-If you'd like to contribute to this project, then read the some things we should do in middle.txt. 
+If you'd like to contribute to this project, then read the "**some things we should do in middle.txt**". 
 please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ---
