@@ -1,10 +1,4 @@
-# Ecommerce_website_using_reactjs_mongodb_expressjs_nodejs
-
-# E-commerce Website
-
-![Project Image](project-image-url)
-
-> Short project description goes here.
+# E-commerce Website using MERN STACK
 
 ---
 
